@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Emmanuel-Carranza
 - 👀 I’m interested in Data and sight hounds
 - 🌱 I’m currently learning R and SQL
-- 💞️ I’m looking to collaborate on something
 - 📫 How to reach me ¯\_(ツ)_/¯
 
 <!---
