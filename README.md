@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emmanuel-Carranza
-- 👀 I’m interested in Information and sight hounds
+- 👀 I’m interested in Data Science and Sight Hounds
 - 🌱 I’m currently learning R and SQL
-- 📫 How to reach me ¯\\-(ツ)-/¯
+- 📫 How to reach me emmanuel.carranza@hotmail.com
 - 📷: @yoemslo
 
 
